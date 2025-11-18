@@ -14,7 +14,7 @@ class ColorPickerScreen extends StatefulWidget {
 }
 
 class _ColorPickerScreenState extends State<ColorPickerScreen> {
-  // Змінні стану. Вони зберігають поточні значення кольорів.
+  // Змінні стану
   double _red = 0.0;
   double _green = 0.0;
   double _blue = 0.0;
