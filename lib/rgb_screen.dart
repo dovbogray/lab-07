@@ -1,11 +1,5 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const MaterialApp(
-    home: ColorPickerScreen(),
-  ));
-}
-
 class ColorPickerScreen extends StatefulWidget {
   const ColorPickerScreen({super.key});
 
